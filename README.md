@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,50:7B2FF7,100:F72585&height=220&section=header&text=Vin%C3%ADcius%20Souza&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-end%20%7C%20Redes%20%7C%20Cloud%20%2F%20GCP%20%7C%20IA&descAlignY=58&descSize=20" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=7B2FF7&center=true&vCenter=true&width=650&lines=Estudante+de+Frameworks+Front-end+%40+SENAI;Explorando+Cloud+Computing+e+Google+Cloud+Platform;Estudando+Intelig%C3%AAncia+Artificial+e+Agentes;Construindo+APIs+REST+e+projetos+Full-Stack" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ViniciuspSouza23&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=7B2FF7&style=flat" alt="Contador de visitas"/>
+</p>
+
 # 👋 Olá, eu sou o Vinícius
 
 ![Estudante](https://img.shields.io/badge/status-estudante-blue)
@@ -108,6 +120,14 @@ timeline
     2026 (mar–jul) : Portifolio---Vinicius1 : Jogo-da-memoria : Landing-Responsivo-atividade2 : WALWORD : Treino-Linux
     2026 (ago–set) : disciplina-frontend-vanilla.js : meu-primeiro-projeto-react-frontend : 4-projetos-web-React : disciplina-frontend-tabela-reposit-rios : endpoint-frontend-deivison : frontend-backend : Projeto-FullStack-Frontend : disciplina-frontend : API-CRUD
 ```
+
+---
+
+## 🐍 Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ViniciuspSouza23/ViniciuspSouza23/output/github-contribution-grid-snake.svg" alt="Snake eating my contribution graph" />
+</p>
 
 ---
 
